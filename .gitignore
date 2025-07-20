@@ -1,0 +1,43 @@
+.AppleDouble
+.LSOverride
+._*
+
+# ======================
+# Xcode
+# ======================
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+DerivedData/
+.idea/
+build/
+*.hmap
+
+# ======================
+# SwiftPM
+# ======================
+.build/
+
+# ======================
+# Vídeos e arquivos grandes
+# ======================
+*.mov
+*.mp4
+*.avi
+
+# ======================
+# Testes e previews
+# ======================
+*Preview Content*
+
+# ======================
+# Outros
+# ======================
+*.log
